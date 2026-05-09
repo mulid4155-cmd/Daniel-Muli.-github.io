@@ -1,7 +1,7 @@
 # Daniel-Muli.-github.io
 # Daniel-Muli
 My personal  project
-# Hi, I'm [Daniel Muli]
+# Hi, I'm [Daniel Muli]👩‍💻
 
 ## About Me
 - I'm currently learning [Computer programming at IYF freecourses].
@@ -10,11 +10,13 @@ My personal  project
 
 ## Skills I'm Building
 - Git and GitHub
-- [Javascript python and Html]
+- [node.js,react and Html]
 
 ## Current Projects
-- [](link) — short description
+- weather app⛅
+-my to do list
 
 ## How to Reach Me
-- Email: [mulid4155@gmail.com]
-- LinkedIn: [your LinkedIn profile link] open source projects"].
+- Email📨: [mulid4155@gmail.com]
+- Instagram: [evansnoves] open source projects"].
+-☎️ 0790090254
